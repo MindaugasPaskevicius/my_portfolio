@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MindaugasPaskevicius/my_portfolio.git/static/css/main.187ec1e8.css",
-    "main.js": "/MindaugasPaskevicius/my_portfolio.git/static/js/main.6cd36774.js",
-    "static/media/Blogpost.png": "/MindaugasPaskevicius/my_portfolio.git/static/media/Blogpost.ddaad0c43a999ecfc1e5.png",
-    "static/media/portfolio2.jpg": "/MindaugasPaskevicius/my_portfolio.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/CV.pdf": "/MindaugasPaskevicius/my_portfolio.git/static/media/CV.f0e84259af9e964c5e2e.pdf",
-    "static/media/portfolio3.jpg": "/MindaugasPaskevicius/my_portfolio.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "index.html": "/MindaugasPaskevicius/my_portfolio.git/index.html",
-    "main.187ec1e8.css.map": "/MindaugasPaskevicius/my_portfolio.git/static/css/main.187ec1e8.css.map",
-    "main.6cd36774.js.map": "/MindaugasPaskevicius/my_portfolio.git/static/js/main.6cd36774.js.map"
+    "main.css": "/MindaugasPaskevicius/my_portfolio/static/css/main.187ec1e8.css",
+    "main.js": "/MindaugasPaskevicius/my_portfolio/static/js/main.f0b08012.js",
+    "static/media/Blogpost.png": "/MindaugasPaskevicius/my_portfolio/static/media/Blogpost.ddaad0c43a999ecfc1e5.png",
+    "static/media/portfolio2.jpg": "/MindaugasPaskevicius/my_portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/CV.pdf": "/MindaugasPaskevicius/my_portfolio/static/media/CV.f0e84259af9e964c5e2e.pdf",
+    "static/media/portfolio3.jpg": "/MindaugasPaskevicius/my_portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "index.html": "/MindaugasPaskevicius/my_portfolio/index.html",
+    "main.187ec1e8.css.map": "/MindaugasPaskevicius/my_portfolio/static/css/main.187ec1e8.css.map",
+    "main.f0b08012.js.map": "/MindaugasPaskevicius/my_portfolio/static/js/main.f0b08012.js.map"
   },
   "entrypoints": [
     "static/css/main.187ec1e8.css",
-    "static/js/main.6cd36774.js"
+    "static/js/main.f0b08012.js"
   ]
 }
