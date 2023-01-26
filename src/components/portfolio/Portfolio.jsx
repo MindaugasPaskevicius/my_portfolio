@@ -13,7 +13,7 @@ const data = [
     image: IMG1,
     title: "Modern Blog App with React | GraphQL, NextJS, Tailwind CSS",
     github: "https://github.com/MindaugasPaskevicius/cms_blog",
-    demo: "https://github.com/MindaugasPaskevicius/restaurant-frontend",
+    demo: "https://cms-blog-lovat-eight.vercel.app/",
   },
   // {
   //   id: 2,
@@ -70,9 +70,9 @@ const Portfolio = () => {
                 <a href={github} className="btn">
                   Github
                 </a>
-                {/* <a href={demo} className="btn btn-primary" target="_blank">
+                <a href={demo} className="btn btn-primary" target="_blank">
                   Live Demo
-                </a> */}
+                </a>
               </div>
             </article>
           );
