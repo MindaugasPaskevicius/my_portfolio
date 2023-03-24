@@ -40,15 +40,18 @@ const About = () => {
           </div>
 
           <p>
-            I started my career in logistics. The desire to learn, improve and
-            strive to be the best helped me to achieve good results. When I had
-            already achieved my goals, I decided to challenge myself and step
-            out of my comfort zone, I chose to try programming. I started
-            studying and after finishing my studies in "Baltic Institute of
-            Technology" , where I gained a lot of knowledge, I realized that I
-            really want to continue my journey in programming, to get knowledge
-            and give your all in this exciting and never-ending field of
-            innovation.
+            As a former warehouse manager with a passion for learning, growth,
+            and excellence, I made the decision to challenge myself and venture
+            into the world of programming. After completing my studies at the
+            Baltic Institute of Technology, I realized that programming was not
+            just a new career path, but a lifelong journey of innovation and
+            discovery that I was eager to embark upon. My experience in
+            logistics has equipped me with exceptional organizational skills,
+            attention to detail, and the ability to manage and prioritize tasks
+            effectively. I am committed to applying these skills to my work as a
+            programmer and contributing to the dynamic and ever-evolving world
+            of technology. I am confident that my passion, drive, and work ethic
+            will make me a valuable asset to any development team.
           </p>
 
           <a href="#contact" className="btn btn-primary">
