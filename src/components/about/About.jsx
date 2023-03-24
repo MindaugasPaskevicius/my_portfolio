@@ -51,7 +51,7 @@ const About = () => {
             effectively. I am committed to applying these skills to my work as a
             programmer and contributing to the dynamic and ever-evolving world
             of technology. I am confident that my passion, drive, and work ethic
-            will make me a valuable asset to any development team.
+            will make me a valuable asset to any development team. 
           </p>
 
           <a href="#contact" className="btn btn-primary">
